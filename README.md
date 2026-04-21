@@ -36,3 +36,4 @@ Replace the placeholder content in `index.html`:
 - Add a contact form
 - Add a second page for brand story or product details
 - Add analytics and SEO metadata
+# teapage
